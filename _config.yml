@@ -15,3 +15,4 @@ theme: jekyll-theme-midnight
 title: Awesome title
 author: TVMTam
 description: A short description about this site "It's still underconstruction"
+          # to add colon : in title, use < &#58; > instead. there's no way around it. it's a yaml problem

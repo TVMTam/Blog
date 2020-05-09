@@ -14,4 +14,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: midnight
 title: Blog's Title
 author: TVMTam
-description: hi
+description: A short description about this site: "It's still underconstruction"

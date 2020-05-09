@@ -11,7 +11,7 @@ github_username:  TVMTam # DO NOT include the @ character, or else the build wil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 title: Awesome title
 author: TVMTam
 description: A short description about this site&#58; "It's still under construction"

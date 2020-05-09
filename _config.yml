@@ -14,5 +14,5 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-midnight
 title: Awesome title
 author: TVMTam
-description: A short description about this site&#58; "It's still underconstruction"
+description: A short description about this site&#58; "It's still under construction"
           # to add colon : in title, use < &#58; > instead. there's no way around it. it's a yaml problem
